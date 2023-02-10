@@ -73,3 +73,5 @@ Se requiere un programa en Java para calcular el resultado de la suma, diferenci
 
 Etapa 03. Diseño de la Solución
 
+![](https://github.com/EmanuelQuirino99/Ejercicio02/blob/master/Operaciones.png)
+
