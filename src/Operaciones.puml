@@ -1,0 +1,33 @@
+@startuml
+class  Main {
+    - String mensaje
+    + toString()
+}
+class OperacionesVarias{
+    - double numero1
+    - double numero2
+    - double suma
+    - double diferencia
+    - double producto
+    - double modulo
+    - double dividendo
+    - double divisor
+    - double cociente
+    - double divicion
+    + OperacionesVarias()
+    + OperacionesVarias( double a ...)
+
+    + getnumero1()
+    + setnumero1()
+    + getnumero2()
+    + setnumero2()
+    + getsuma()
+    + setsuma
+    ......()
+    + toString()
+
+    }
+
+    Main <|---OperacionesVarias
+
+@enduml
